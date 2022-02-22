@@ -1,0 +1,52 @@
+body{
+    background: darkcyan;
+}
+
+.container{
+    width: 1240px;
+    padding: 0px 20px;
+    margin: 0;
+}
+.header-inner{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.header__title{
+    color: honeydew;
+}
+
+.info__spanbox{
+    margin: 0 auto;
+    width: 80px;
+    background-color: rgb(255, 247, 247);
+    padding: 30px;
+    border: 3px solid green;
+    border-radius: 50%;
+    
+}
+
+.info__span{
+    color: rgb(83, 83, 218);
+}
+
+.info__button {
+    position: relative;
+    font-family: calibri;
+    width: 150px;
+    padding: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px dashed #BBB;
+    text-align: center;
+    background-color: #DDD;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .info__input{
+      padding:10px;
+  }
+.info__select{
+    padding:10px;
+}
